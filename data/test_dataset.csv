@@ -1,0 +1,23 @@
+command,code
+declare integer,integer a
+declare an integer,integer b
+declare string,text a
+declare a string,text b
+declare integer x,integer x
+declare an integer y,integer y
+declare string x,text x
+declare a string y,text y
+declare integer x,integer x
+declare integer y,integer y
+initiate integer x with value one,integer x = 1
+initiate integer x with value two,integer x = 2
+initiate integer x with value three,integer x = 3
+initiate integer x with value four,integer x = 4
+initiate integer x with value five,integer x = 5
+initiate integer x with value six,integer x = 6
+initiate integer x with value seven,integer x = 7
+initiate integer x with value eight,integer x = 8
+initiate integer x with value nine,integer x = 9
+initiate integer x with value ten,integer x = 10
+initiate integer x with value eleven,integer x = 11
+initiate integer x with value twelve,integer x = 12
