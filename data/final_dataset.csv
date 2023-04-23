@@ -1,19 +1,5 @@
 command,code
 declare a new integer,integer a
-declare a new integer,integer b
-declare a new integer,integer c
-declare a new integer,integer d
-declare a new integer,integer e
-declare a new integer,integer a
-declare a new integer,integer b
-declare a new integer,integer c
-declare a new integer,integer d
-declare a new integer,integer e
-declare a new integer,integer a
-declare a new integer,integer b
-declare a new integer,integer c
-declare a new integer,integer d
-declare a new integer,integer e
 declare string,text a
 declare string,text b
 declare a string,text c
