@@ -1,3 +1,4 @@
+command,code
 print string hello world,"text a = ""Hello World\noutput a"""
 print hello world,"text a = ""Hello World\noutput a"""
 print text hello world,"text a = ""Hello World\noutput a"""
