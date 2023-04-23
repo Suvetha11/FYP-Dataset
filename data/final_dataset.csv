@@ -1,12 +1,7 @@
 command,code
-declare integer,integer a
-declare integer,integer b
-declare integer,integer c
-declare integer,integer d
-declare integer,integer e
-declare integer,integer f
-declare integer,integer g
-declare integer,integer h
+declare a new integer,integer a
+declare a new integer,integer b
+declare a new integer,integer c
 declare an integer,integer c
 declare an integer,integer d
 declare string,text a
