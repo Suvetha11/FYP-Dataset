@@ -1,4 +1,12 @@
 command,code
+print string hello world,text a = "Hello World"
+output a
+print string help,"text a = ""Hello World""
+output a"
+print string hello world,"text a = ""Hello World""
+output a"
+print string hello world,"text a = ""Hello World""
+output a"
 print string hello world,"text a = ""Hello World""
 output a"
 print hello world,"text a = ""Hello World""
