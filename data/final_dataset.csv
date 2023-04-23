@@ -1,34 +1,17 @@
 command,code
 set up a new integer,integer a
 set up a new integer,integer b
-set up a new integer,integer c
-set up a new integer,integer d
-set up a new integer,integer e
 set up new integer,integer a
 set up new integer,integer b
-set up new integer,integer c
-set up new integer,integer d
-set up new integer,integer e
 craete a new integer,integer a
 craete a new integer,integer b
-craete a new integer,integer c
-craete a new integer,integer d
-craete a new integer,integer e
 craete new integer,integer a
 craete new integer,integer b
-craete new integer,integer c
-craete new integer,integer d
-craete new integer,integer e
 declare new integer,integer a
 declare new integer,integer b
 declare new integer,integer c
 declare new integer,integer d
 declare new integer,integer e
-declare new integer,integer f
-declare new integer,integer g
-declare new integer,integer h
-declare new integer,integer i
-declare new integer,integer j
 declare a new integer,integer a
 declare a new integer,integer b
 declare a new integer,integer c
