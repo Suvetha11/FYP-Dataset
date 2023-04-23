@@ -4,21 +4,21 @@ set up a new integer,integer b
 set up a new integer,integer c
 set up a new integer,integer d
 set up a new integer,integer e
-set up a new integer,integer f
-set up a new integer,integer g
-set up a new integer,integer h
-set up a new integer,integer i
-set up a new integer,integer j
+set up new integer,integer a
+set up new integer,integer b
+set up new integer,integer c
+set up new integer,integer d
+set up new integer,integer e
 craete a new integer,integer a
 craete a new integer,integer b
 craete a new integer,integer c
 craete a new integer,integer d
 craete a new integer,integer e
-craete a new integer,integer f
-craete a new integer,integer g
-craete a new integer,integer h
-craete a new integer,integer i
-craete a new integer,integer j
+craete new integer,integer a
+craete new integer,integer b
+craete new integer,integer c
+craete new integer,integer d
+craete new integer,integer e
 declare string,text a
 declare string,text b
 declare a string,text c
