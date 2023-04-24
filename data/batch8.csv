@@ -1,0 +1,61 @@
+﻿command,code
+print variable name,output name
+print variable text name,output name
+print variable string name,output name
+output variable name,output name
+output variable text name,output name
+output variable string name,output name
+print  name,"output ""name"""
+print  text name,"output ""name"""
+print  string name,"output ""name"""
+output  name,"output ""name"""
+output  text name,"output ""name"""
+output  string name,"output ""name"""
+print variable dog,output dog
+print variable text dog,output dog
+print variable string dog,output dog
+output variable dog,output dog
+output variable text dog,output dog
+output variable string dog,output dog
+print  dog,"output ""dog"""
+print  text dog,"output ""dog"""
+print  string dog,"output ""dog"""
+output  dog,"output ""dog"""
+output  text dog,"output ""dog"""
+output  string dog,"output ""dog"""
+print variable hello world,output hello_world
+print variable text hello world,output hello_world
+print variable string hello world,output hello_world
+output variable hello world,output hello_world
+output variable text hello world,output hello_world
+output variable string hello world,output hello_world
+print  hello world,"output ""hello world"""
+print  text hello world,"output ""hello world"""
+print  string hello world,"output ""hello world"""
+output  hello world,"output ""hello world"""
+output  text hello world,"output ""hello world"""
+output  string hello world,"output ""hello world"""
+print variable first name,output first_name
+print variable text first name,output first_name
+print variable string first name,output first_name
+output variable first name,output first_name
+output variable text first name,output first_name
+output variable string first name,output first_name
+print  first name,"output ""first name"""
+print  text first name,"output ""first name"""
+print  string first name,"output ""first name"""
+output  first name,"output ""first name"""
+output  text first name,"output ""first name"""
+output  string first name,"output ""first name"""
+print variable student first name,output student_first_name
+print variable text student first name,output student_first_name
+print variable string student first name,output student_first_name
+output variable student first name,output student_first_name
+output variable text student first name,output student_first_name
+output variable string student first name,output student_first_name
+print  student first name,"output ""student first name"""
+print  text student first name,"output ""student first name"""
+print  string student first name,"output ""student first name"""
+output  student first name,"output ""student first name"""
+output  text student first name,"output ""student first name"""
+output  string student first name,"output ""student first name"""
