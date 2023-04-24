@@ -1,0 +1,41 @@
+﻿command,code
+declare variable with type string ,text a
+declare variable with type string ,text b
+declare variable with type text ,text a
+declare variable with type text ,text b
+declare variable with type integer ,integer a
+declare variable with type integer ,integer b
+declare variable with type number ,number a
+declare variable with type number ,number b
+declare variable with type boolean ,boolean a
+declare variable with type boolean ,boolean b
+declare a string variable named x,text x
+declare a string variable named y,text y
+declare a text variable named x,text x
+declare a text variable named y,text y
+declare an integer variable named x,integer x
+declare an integer variable named y,integer y
+declare a number variable named x,number x
+declare a number variable named y,number y
+declare a boolean variable named x,boolean x
+declare a boolean variable named y,boolean y
+declare a variable called x with type string,text x
+declare a variable called y with type string,text y
+declare a variable called x with type text,text x
+declare a variable called y with type text,text y
+declare a variable called x with type integer,integer x
+declare a variable called y with type integer,integer y
+declare a variable called x with type number,number x
+declare a variable called y with type number,number y
+declare a variable called x with type boolean,boolean x
+declare a variable called y with type nboolean,boolean y
+declare string type variable x,text x
+declare string type variable y,text y
+declare text type variable x,text x
+declare text type variable y,text y
+declare integer type variable count,integer count
+declare integer type variable age,integer age
+declare number type variable x,number x
+declare number type variable y,number y
+declare boolean type variable x,boolean x
+declare boolean type variable y,boolean y

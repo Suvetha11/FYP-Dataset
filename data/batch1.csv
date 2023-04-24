@@ -1,0 +1,51 @@
+﻿command,code
+set up new integer,integer a
+set up new integer,integer b
+set up new string,text a
+set up new string,text b
+set up new text,text a
+set up new text,text b
+set up new number,number a
+set up new number,number b
+set up new boolean,boolean a
+set up new boolean,boolean b
+create new integer,integer a
+create new integer,integer b
+create new string,text a
+create new string,text b
+create new text,text a
+create new text,text b
+create new number,number a
+create new number,number b
+create new boolean,boolean a
+create new boolean,boolean b
+declare new integer,integer a
+declare new integer,integer b
+declare new string,text a
+declare new string,text b
+declare new text,text a
+declare new text,text b
+declare new number,number a
+declare new number,number b
+declare new boolean,boolean a
+declare new boolean,boolean b
+declare a new integer,integer a
+declare a new integer,integer b
+declare a new string,text a
+declare a new string,text b
+declare a new text,text c
+declare a new text,text d
+declare a new number,number a
+declare a new number,number b
+declare a new boolean,boolean a
+declare a new boolean,boolean b
+declare string x,text x
+declare string y,text y
+declare text x,text x
+declare text y,text y
+declare integer x,integer x
+declare integer y,integer y
+declare number x,number x
+declare number y,number y
+declare boolean x,boolean x
+declare boolean y,boolean y

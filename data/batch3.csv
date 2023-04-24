@@ -1,0 +1,31 @@
+﻿command,code
+declare integer student age ,integer student_age
+declare integer student id ,integer student_id
+declare integer x y ,integer x_y
+declare integer a b ,integer a_b
+declare integer new student age ,integer new_student_age
+declare integer new student id ,integer new_student_id
+declare integer x y z,integer x_y_z
+declare integer a b c,integer a_b_c
+declare text first name ,text first_name
+declare text last name ,text last_name
+declare text x y,text x_y
+declare text a b,text a_b
+declare text x y z,text x_y_z
+declare text a b c,text a_b_c
+declare string student first name ,text student_first_name
+declare string student last name ,text student_last_name
+declare string x y,text x_y
+declare string a b,text a_b
+declare string x y z,text x_y_z
+declare string a b c,text a_b_c
+declare number student age ,number student_age
+declare number student id ,number student_id
+declare number x y ,number x_y
+declare number a b ,number a_b
+declare number new student age ,number new_student_age
+declare number new student id ,number new_student_id
+declare boolean x y ,boolean x_y
+declare boolean a b ,boolean a_b
+declare boolean x y z,boolean x_y_z
+declare boolean a b c,boolean a_b_c
