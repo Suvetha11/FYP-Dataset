@@ -1,0 +1,22 @@
+command,code
+declare integer student age,integer student_age
+declare integer student id,integer student_id
+declare integer hello world,integer hello_world
+declare integer number counti,nteger number_count
+declare integer max count,integer max_count
+declare integer min count,integer min_count
+declare integer total salary,integer total_salary
+declare integer paper count,integer paper_count
+declare integer total distance,integer total_distance
+declare integer x y,integer x_y
+declare integer a b,integer a_b
+declare integer current student age,integer new_student_age
+declare integer current student id,integer new_student_id
+declare integer x y z,integer x_y_z
+declare integer a b c,integer a_b_c
+declare integer average total count,integer average_total_count
+declare integer min paper count,integer min_paper_count
+declare integer max total count,integer max_total_count
+declare integer average total salary,integer average_total_salary
+declare integer average travel distance,integer average_travel_distance
+declare integer student current address,integer student_current_address
