@@ -1,5 +1,9 @@
 command,code
 declare integer student age,integer student_age
+declare boolean student age,boolean student_age
+declare number student age,number student_age
+declare text student age,text student_age
+declare string student age,text student_age
 declare integer student id,integer student_id
 declare integer hello world,integer hello_world
 declare integer number count,integer number_count
@@ -20,3 +24,5 @@ declare integer max total count,integer max_total_count
 declare integer average total salary,integer average_total_salary
 declare integer average travel distance,integer average_travel_distance
 declare integer student current address,integer student_current_address
+declare boolean current student age,boolean new_student_age
+declare boolean current student id,boolean new_student_id
