@@ -26,3 +26,6 @@ declare integer average travel distance,integer average_travel_distance
 declare integer student current address,integer student_current_address
 declare boolean current student age,boolean new_student_age
 declare boolean current student id,boolean new_student_id
+declare boolean x y z,boolean x_y_z
+declare text current student age,text new_student_age
+declare string current student id,text new_student_id
