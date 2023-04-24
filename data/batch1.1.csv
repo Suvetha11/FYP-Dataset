@@ -1,0 +1,16 @@
+﻿command,code
+set up new string,text a
+set up new string,text b
+set up new string,text c
+set up new string,text d
+set up new string,text e
+create new string,text a
+create new string,text b
+create new string,text c
+create new string,text d
+create new string,text e
+declare new string,text a
+declare new string,text b
+declare new string,text c
+declare new string,text d
+declare new string,text e
