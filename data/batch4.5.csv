@@ -1,4 +1,8 @@
 command,code
+initiate integer x with value one hundred,integer x = 100
+initiate integer x with value two hundred,integer x = 200
+initiate integer x with value three hundred,integer x = 300
+initiate integer x with value four hundred,integer x = 400
 initiate integer x with value one hundred ten,integer x = 110
 initiate integer x with value one hundred twenty,integer x = 120
 initiate integer x with value one hundred thirty,integer x = 130
