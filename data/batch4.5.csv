@@ -1,0 +1,11 @@
+command,code
+initiate integer x with value one hundred ten,integer x = 110
+initiate integer x with value one hundred twenty,integer x = 120
+initiate integer x with value one hundred thirty,integer x = 130
+initiate integer x with value one hundred fifty,integer x = 150
+initiate integer x with value one hundred seventy,integer x = 170
+initiate integer x with value two hundred ten,integer x = 210
+initiate integer x with value two hundred twenty,integer x = 220
+initiate integer x with value two hundred thirty,integer x = 230
+initiate integer x with value two hundred fifty,integer x = 250
+initiate integer x with value two hundred seventy,integer x = 270
