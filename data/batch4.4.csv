@@ -1,5 +1,5 @@
 command,code
-initiate integer x with value hundred,integer x = 100
+initiate integer x with value one hundred,integer x = 100
 initiate integer x with value one hundred one,integer x = 101
 initiate integer x with value one hundred two,integer x = 102
 initiate integer x with value one hundred three,integer x = 103
@@ -52,9 +52,3 @@ initiate integer x with value two hundred twenty,integer x = 220
 initiate integer x with value two hundred thirty,integer x = 230
 initiate integer x with value two hundred fifty,integer x = 250
 initiate integer x with value two hundred seventy,integer x = 270
-initiate integer x with value two hundred,integer x = 200
-initiate integer x with value three hundred,integer x = 300
-initiate integer x with value four hundred,integer x = 400
-initiate integer x with value five hundred,integer x = 500
-initiate integer x with value six hundred,integer x = 600
-initiate integer x with value seven hundred,integer x = 700
