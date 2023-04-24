@@ -28,7 +28,7 @@ declare a variable called y with type integer,integer y
 declare a variable called x with type number,number x
 declare a variable called y with type number,number y
 declare a variable called x with type boolean,boolean x
-declare a variable called y with type nboolean,boolean y
+declare a variable called y with type boolean,boolean y
 declare string type variable x,text x
 declare string type variable y,text y
 declare text type variable x,text x
