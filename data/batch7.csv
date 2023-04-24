@@ -1,4 +1,4 @@
-﻿command,code
+command,code
 print name,"output ""name"""
 print dog,"output ""dog"""
 print x,"output ""x"""
