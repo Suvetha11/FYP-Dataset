@@ -1,0 +1,25 @@
+﻿command,code
+initiate integer x with value twenty,integer x = 20
+initiate number x with value twenty,number x = 20.0
+initiate integer x with value twenty one,integer x = 21
+initiate number x with value twenty one,number x = 21.0
+initiate integer x with value twenty two,integer x = 22
+initiate number x with value twenty two,number x = 22.0
+initiate integer x with value twenty three,integer x = 23
+initiate number x with value twenty three,number x = 23.0
+initiate integer x with value twenty four,integer x = 24
+initiate number x with value twenty four,number x = 24.0
+initiate integer x with value twenty five,integer x = 25
+initiate number x with value twenty five,number x = 25.0
+initiate integer x with value seventy,integer x = 70
+initiate number x with value seventy,number x = 70.0
+initiate integer x with value seventy one,integer x = 71
+initiate number x with value seventy one,number x = 71.0
+initiate integer x with value seventy two,integer x = 72
+initiate number x with value seventy two,number x = 72.0
+initiate integer x with value seventy three,integer x = 73
+initiate number x with value seventy three,number x = 73.0
+initiate integer x with value seventy four,integer x = 74
+initiate number x with value seventy four,number x = 74.0
+initiate integer x with value seventy five,integer x = 75
+initiate number x with value seventy five,number x = 75.0
