@@ -1,4 +1,4 @@
-command ,code
+command,code
 get user input to enter the name and assign it to string variable x,"text x = input(""Enter the name: "")"
 get user input to enter the name and assign it to text variable x,"text x = input(""Enter the name: "")"
 get user input to enter the name and assign it to integer variable x,"integer x = input(""Enter the name: "")"
