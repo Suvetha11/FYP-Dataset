@@ -1,5 +1,21 @@
 ﻿command,code
 add one plus two and assign to integer variable x,integer x = 1 + 2
+add one and three and assign to integer variable x,integer x = 1 + 3
+add one and four and assign to integer variable x,integer x = 1 + 4
+add two and three and assign to integer variable x,integer x = 2 + 3
+add two and two and assign to integer variable x,integer x = 2 + 2
+add five and twenty and assign to integer variable x,integer x = 5 + 20
+add one and six and assign to integer variable x,integer x = 1 + 6
+add ten and fifteen and assign to integer variable x,integer x = 10 + 15
+add nine and seven and assign to integer variable x,integer x = 9 + 7
+add eight and two and assign to integer variable x,integer x = 8 + 2
+add four and twelve and assign to integer variable x,integer x = 4 + 12
+add twenty and twenty one and assign to integer variable x,integer x = 20 + 21
+add nineteen and fifteen and assign to integer variable x,integer x = 19 + 15
+add seventy five and ninety six and assign to integer variable x,integer x = 75 + 96
+add seventy and twelve and assign to integer variable x,integer x = 70 + 12
+add forty and ninety and assign to integer variable x,integer x = 40 + 90
+add one plus two and assign to integer variable x,integer x = 1 + 2
 add one plus three and assign to integer variable x,integer x = 1 + 3
 add one plus four and assign to integer variable x,integer x = 1 + 4
 add two plus three and assign to integer variable x,integer x = 2 + 3
