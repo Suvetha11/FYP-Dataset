@@ -1,22 +1,12 @@
-﻿x,"text answer = input (""Do you use apple or android?"")
+x,"text answer = input (""Do you use apple or android?"")
 if answer = ""Apple""
    output ""I like the iPhone too!""
 else
    output ""Android is cool!""
 end"
-,
-,
-,
-,
-,
 y,"text answer = input (""Do you use apple or android?"")
 if answer = ""Apple""
    output ""I like the iPhone too!""
 else
    output ""Android is cool!""
 end"
-,
-,
-,
-,
-,
