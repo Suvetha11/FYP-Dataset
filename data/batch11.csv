@@ -1,5 +1,5 @@
 ﻿command,code
-add one plus two and assign to integer variable x,integer x = 1 + 2
+add one and two and assign to integer variable x,integer x = 1 + 2
 add one and three and assign to integer variable x,integer x = 1 + 3
 add one and four and assign to integer variable x,integer x = 1 + 4
 add two and three and assign to integer variable x,integer x = 2 + 3
