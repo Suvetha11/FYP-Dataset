@@ -1,0 +1,73 @@
+﻿command,code
+declare string x,text x
+print string x,"output ""x"""
+output string x,"output ""x"""
+declare string variable x,text x
+print string variable x,output x
+output string variable x,output x
+declare variable string x,text x
+print variable string x,output x
+output variable string x,output x
+declare text x,text x
+print text x,"output ""x"""
+output text x,"output ""x"""
+declare text variable x,text x
+print text variable x,output x
+output text variable x,output x
+declare variable text x,text x
+print variable text x,output x
+output variable text x,output x
+declare string name,text name
+print string name,"output ""name"""
+output string name,"output ""name"""
+declare string variable name,text name
+print string variable name,output name
+output string variable name,output name
+declare variable string name,text name
+print variable string name,output name
+output variable string name,output name
+declare text name,text name
+print text name,"output ""name"""
+output text name,"output ""name"""
+declare text variable name,text name
+print text variable name,output name
+output text variable name,output name
+declare variable text name,text name
+print variable text name,output name
+output variable text name,output name
+declare string first name,text first_name
+print string first name,"output ""first name"""
+output string first name,"output ""first name"""
+declare string variable first name,text first_name
+print string variable first name,output first_name
+output string variable first name,output first_name
+declare variable string first name,text first_name
+print variable string first name,output first_name
+output variable string first name,output first_name
+declare text first name,text first_name
+print text first name,"output ""first name"""
+output text first name,"output ""first name"""
+declare text variable first name,text first_name
+print text variable first name,output first_name
+output text variable first name,output first_name
+declare variable text first name,text first_name
+print variable text first name,output first_name
+output variable text first name,output first_name
+declare string client first name,text client_first_name
+print string client first name,"output ""client first name"""
+output string client first name,"output ""client first name"""
+declare string variable client first name,text client_first_name
+print string variable client first name,output client_first_name
+output string variable client first name,output client_first_name
+declare variable string client first name,text client_first_name
+print variable string client first name,output client_first_name
+output variable string client first name,output client_first_name
+declare text client first name,text client_first_name
+print text client first name,"output ""client first name"""
+output text client first name,"output ""client first name"""
+declare text variable client first name,text client_first_name
+print text variable client first name,output client_first_name
+output text variable client first name,output client_first_name
+declare variable text client first name,text client_first_name
+print variable text client first name,output client_first_name
+output variable text client first name,output client_first_name
