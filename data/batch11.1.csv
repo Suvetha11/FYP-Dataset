@@ -1,0 +1,21 @@
+﻿command,code
+add two numbers and assign to integer variable x,integer x = 1 + 2
+add two numbers and assign to integer variable x,integer x = 5 + 20
+add two numbers and assign to integer variable x,integer x = 1 + 6
+add two numbers and assign to integer variable x,integer x = 10 + 15
+add two numbers and assign to integer variable x,integer x = 9 + 7
+subtract two numbers and assign to integer variable x,integer x = 1 - 2
+subtract two numbers and assign to integer variable x,integer x = 5 - 20
+subtract two numbers and assign to integer variable x,integer x = 1 - 6
+subtract two numbers and assign to integer variable x,integer x = 10 - 15
+subtract two numbers and assign to integer variable x,integer x = 9 - 7
+multiply two numbers and assign to integer variable x,integer x = 1 * 2
+multiply two numbers and assign to integer variable x,integer x = 5 * 20
+multiply two numbers and assign to integer variable x,integer x = 1 * 6
+multiply two numbers and assign to integer variable x,integer x = 10 * 15
+multiply two numbers and assign to integer variable x,integer x = 9 * 7
+divide two numbers and assign to integer variable x,integer x = 1 / 2
+divide two numbers and assign to integer variable x,integer x = 5 / 20
+divide two numbers and assign to integer variable x,integer x = 1 / 6
+divide two numbers and assign to integer variable x,integer x = 10 / 15
+divide two numbers and assign to integer variable x,integer x = 9 / 7
