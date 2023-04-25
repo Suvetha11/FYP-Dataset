@@ -76,6 +76,6 @@ integer table count equal fourttable count divide eight,integer table_count = 40
 integer table count equal sixttable count three divide nine,integer table_count = 63 / 9
 integer total seat count equal five divide five,integer total_seat_count = 5 / 5
 integer total seat count equal twelve divide six,integer total_seat_count = 12 / 6
-integer total seat count equal twenttotal seat count one divide seven,integer total_seat_count = 21 / 7
+integer total seat count equal total seat count one divide seven,integer total_seat_count = 21 / 7
 integer total seat count equal fourttotal seat count divide eight,integer total_seat_count = 40 / 8
 integer total seat count equal sixttotal seat count three divide nine,integer total_seat_count = 63 / 9
