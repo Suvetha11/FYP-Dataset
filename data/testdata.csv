@@ -1,3 +1,4 @@
+command,code
 declare text variable with value one,"text x = ""1"" 
 number value = cast(number, x)"
 declare text variable with value one,"text y = ""1"" 
