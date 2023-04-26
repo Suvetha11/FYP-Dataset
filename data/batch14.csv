@@ -1,7 +1,4 @@
 ﻿command,code
-declare text variable with x value one and cast to number type,"text x = ""1"" 
-number value = cast(number, x)"
-declare text variable with y value one and cast to number type,"text y = ""1"" 
-number value = cast(number, y)"
-declare text variable with z value one and cast to number type,"text z = ""1"" 
-number value = cast(number, z)"
+declare text variable with x value one and cast to number type,"text x = ""1"" number value = cast(number, x)"
+declare text variable with y value one and cast to number type,"text y = ""1"" number value = cast(number, y)"
+declare text variable with z value one and cast to number type,"text z = ""1"" number value = cast(number, z)"
