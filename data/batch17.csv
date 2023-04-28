@@ -1,0 +1,37 @@
+﻿command,code
+boolean a equal five less than six,boolean a = 5 < 6
+boolean a equal five less than seven,boolean a = 5 < 7
+boolean a equal five less than eight,boolean a = 5 < 8
+boolean a equal five less than nine,boolean a = 5 < 9
+boolean a equal five less than ten,boolean a = 5 < 10
+boolean a equal five less than eleven,boolean a = 5 < 11
+boolean b equal five less than or equal to six,boolean b = 5 <= 6
+boolean b equal five less than or equal to seven,boolean b = 5 <= 7
+boolean b equal five less than or equal to eight,boolean b = 5 <= 8
+boolean b equal five less than or equal to nine,boolean b = 5 <= 9
+boolean b equal five less than or equal to ten,boolean b = 5 <= 10
+boolean b equal five less than or equal to eleven,boolean b = 5 <= 11
+boolean a equal five greater than six,boolean a = 5 > 6
+boolean a equal five greater than seven,boolean a = 5 > 7
+boolean a equal five greater than eight,boolean a = 5 > 8
+boolean a equal five greater than nine,boolean a = 5 > 9
+boolean a equal five greater than ten,boolean a = 5 > 10
+boolean a equal five greater than eleven,boolean a = 5 > 11
+boolean b equal five greater than or equal to six,boolean b = 5 >= 6
+boolean b equal five greater than or equal to seven,boolean b = 5 >= 7
+boolean b equal five greater than or equal to eight,boolean b = 5 >= 8
+boolean b equal five greater than or equal to nine,boolean b = 5 >= 9
+boolean b equal five greater than or equal to ten,boolean b = 5 >= 10
+boolean b equal five greater than or equal to eleven,boolean b = 5 >= 11
+boolean a equal true and true,boolean a = true and true
+boolean b equal true and true,boolean b = true and true
+boolean c equal true and true,boolean c = true and true
+boolean a equal true and false,boolean a = true and false
+boolean b equal true and false,boolean b = true and false
+boolean c equal true and false,boolean c = true and false
+boolean a equal true or true,boolean a = true or true
+boolean b equal true or true,boolean b = true or true
+boolean c equal true or true,boolean c = true or true
+boolean a equal true or false,boolean a = true or false
+boolean b equal true or false,boolean b = true or false
+boolean c equal true or false,boolean c = true or false
