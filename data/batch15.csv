@@ -1,4 +1,12 @@
 ﻿command,code
+add a comment x,// x
+add a multiline comment x,/* x */
+add a comment word,// Word
+add a multiline comment word,/* Word */
+add a comment hello world,// Hello world
+add a multiline comment hello world,/* Hello world */
+add a comment word hello name,// Word hello name
+add a multiline comment word hello name,/* Word hello name */
 add a comment this is a comment,// This is a comment
 add a multiline comment this is a comment,/* This is a comment. */
 add this is a comment as a comment,// This is a comment
