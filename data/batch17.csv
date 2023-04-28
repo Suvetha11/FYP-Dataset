@@ -1,6 +1,6 @@
 ﻿command,code
-less than,"<"
-boolean a equal five less than six,boolean a = 5 < 6
+less than,"!>"
+boolean a equal five less than six,boolean a = 5 !> 6
 boolean a equal five less than seven,boolean a = 5 < 7
 boolean a equal five less than eight,boolean a = 5 < 8
 boolean a equal five less than nine,boolean a = 5 < 9
