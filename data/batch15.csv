@@ -1,0 +1,25 @@
+﻿command,code
+add a comment this is a comment,// This is a comment
+add a multiline comment this is a comment,/* This is a comment. */
+add this is a comment as a comment,// This is a comment
+add this is a comment as a multiline comment,/* This is a comment. */
+add a comment this is a single line comment.,// This is a single line comment.
+add a multiline comment this is a single line comment.,/* This is a single line comment.*/
+add this is a single line comment as a comment,// This is a single line comment
+add this is a single line comment as a multiline comment,/* This is a single line comment. */
+add a comment this code calculates the average of two numbers,// This code calculates the average of two numbers
+add a multiline comment this code calculates the average of two numbers,/* This code calculates the average of two numbers. */
+add this code calculates the average of two numbers as a comment,// This code calculates the average of two numbers
+add this code calculates the average of two numbers as a multiline comment,/* This code calculates the average of two numbers. */
+add a comment method to add two numbers,// Method to add two numbers
+add a multiline comment method to add two numbers,/* Method to add two numbers. */
+add method to add two numbers as a comment,// Method to add two numbers
+add method to add two numbers as a multiline comment,/* Method to add two numbers. */
+add a comment taking user name as input,// Taking user name as input
+add a multiline comment taking user name as input,/* Taking user name as input. */
+add taking user name as input as a comment,// Taking user name as input
+add taking user name as input as a multiline comment,/* Taking user name as input. */
+add a comment concatenating two strings,// Concatenating two strings
+add a multiline comment concatenating two strings,/* Concatenating two strings. */
+add concatenating two strings as a comment,// Concatenating two strings
+add concatenating two strings as a multiline comment,/* Concatenating two strings. */
