@@ -1,8 +1,8 @@
 ﻿command,code
-concatenate one and two and assign to text total of salary ,"text total_of_salary = ""my name is"" + ""animal"""
-concatenateone and two and assign to text variable total of salary ,"total_of_salary = ""my name is"" + ""animal"""
-create text total of salary and concatenate one and two,"total_of_salary = ""my name is"" + ""animal"""
-text total of salary equals one plus two,"text total_of_salary = ""my name is"" + ""animal"""
+concatenate one and two and assign to text total of salary ,"text total_of_salary = ""one"" + ""two"""
+concatenateone and two and assign to text variable total of salary ,"total_of_salary = ""one"" + ""two"""
+create text total of salary and concatenate one and two,"total_of_salary = ""one"" + ""two"""
+text total of salary equals one plus two,"text total_of_salary = ""one"" + ""two"""
 concatenate fire and fox and assign to text x ,"text x = ""fire"" + ""fox"""
 concatenate fire and fox and assign to text variable x ,"text x = ""fire"" + ""fox"""
 create text x and concatenate fire and fox,"text x = ""fire"" + ""fox"""
