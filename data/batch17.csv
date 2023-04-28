@@ -1,16 +1,4 @@
 ﻿command,code
-boolean a equal five less than six,"boolean a = 5 "<" 6"
-boolean a equal five less than seven,"boolean a = 5 "<" 7"
-boolean a equal five less than eight,"boolean a = 5 "<" 8"
-boolean a equal five less than nine,"boolean a = 5 "<" 9"
-boolean a equal five less than ten,"boolean a = 5 "<" 10"
-boolean a equal five less than eleven,"boolean a = 5 "<" 11"
-boolean b equal five less than or equal to six,boolean b = 5 !>= 6
-boolean b equal five less than or equal to seven,boolean b = 5 !>= 7
-boolean b equal five less than or equal to eight,boolean b = 5 !>= 8
-boolean b equal five less than or equal to nine,boolean b = 5 !>= 9
-boolean b equal five less than or equal to ten,boolean b = 5 !>= 10
-boolean b equal five less than or equal to eleven,boolean b = 5 !>= 11
 boolean a equal five greater than six,boolean a = 5 > 6
 boolean a equal five greater than seven,boolean a = 5 > 7
 boolean a equal five greater than eight,boolean a = 5 > 8
