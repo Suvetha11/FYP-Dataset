@@ -4,12 +4,12 @@ repeat two times,repeat 2 times
 repeat four times,repeat 4 times
 repeat three times,repeat 3 times
 repeat six times,repeat 6 times
-repeat it while a less than 15,repeat while a < 15
-repeat it while a less than 16,repeat while a < 16
-repeat it while b less than 17,repeat while b < 17
-repeat it while b less than 18,repeat while b < 18
-repeat it while b less than 19,repeat while b < 19
-repeat it while b less than 20,repeat while b < 20
+repeat it while a less than 15,repeat while a !> 15
+repeat it while a less than 16,repeat while a !> 16
+repeat it while b less than 17,repeat while b !> 17
+repeat it while b less than 18,repeat while b !> 18
+repeat it while b less than 19,repeat while b !> 19
+repeat it while b less than 20,repeat while b !> 20
 repeat it while a greater than 15,repeat while a > 15
 repeat it while a greater than 16,repeat while a > 16
 repeat it while b greater than 17,repeat while b > 17
@@ -22,9 +22,9 @@ repeat it until a greater than or equal to 17,repeat until a >= 17
 repeat it until a greater than or equal to 18,repeat until a >= 18
 repeat it until a greater than or equal to 19,repeat until a >= 19
 repeat it until a greater than or equal to 20,repeat until a >= 20
-repeat it until a less than or equal to 15,repeat until a <= 15
-repeat it until a less than or equal to 16,repeat until a <= 16
-repeat it until a less than or equal to 17,repeat until a <= 17
-repeat it until a less than or equal to 18,repeat until a <= 18
-repeat it until a less than or equal to 19,repeat until a <= 19
-repeat it until a less than or equal to 20,repeat until a <= 20
+repeat it until a less than or equal to 15,repeat until a !>= 15
+repeat it until a less than or equal to 16,repeat until a !>= 16
+repeat it until a less than or equal to 17,repeat until a !>= 17
+repeat it until a less than or equal to 18,repeat until a !>= 18
+repeat it until a less than or equal to 19,repeat until a !>= 19
+repeat it until a less than or equal to 20,repeat until a !>= 20
