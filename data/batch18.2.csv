@@ -1,37 +1,37 @@
 ﻿command,code
-if x equals to one print hello world,"if x = 1 $$ output ""hello world"""
-if x equals to one output hello world,"if x = 1 $$ output ""hello world"""
-if x equals to one add one to variable x and update variable x,if x = 1 $$ x = x + 1
-if x equals to one add one to the current value of x and update its value,if x = 1 $$ x = x + 1
-if x equals to one print hello world,"if x = 1 $$ output ""hello world"""
-if x equals to one output hello world,"if x = 1 $$ output ""hello world"""
-if x equals to one add two to variable x and update variable x,if x = 1 $$ x = x + 2
-if x equals to one add two to the current value of x and update its value,if x = 1 $$ x = x + 2
-if x equals to one print hello world,"if x = 1 $$ output ""hello world"""
-if x equals to one output hello world,"if x = 1 $$ output ""hello world"""
-if x equals to one add three to variable x and update variable x,if x = 1 $$ x = x + 3
-if x equals to one add three to the current value of x and update its value,if x = 1 $$ x = x + 3
-if x equals to two print hello world,"if x = 2 $$ output ""hello world"""
-if x equals to two output hello world,"if x = 2 $$ output ""hello world"""
-if x equals to two add two to variable x and update variable x,if x = 2 $$ x = x + 1
-if x equals to two add two to the current value of x and update its value,if x = 2 $$ x = x + 1
-if x equals to two print hello world,"if x = 2 $$ output ""hello world"""
-if x equals to two output hello world,"if x = 2 $$ output ""hello world"""
-if x equals to two add two to variable x and update variable x,if x = 2 $$ x = x + 2
-if x equals to two add two to the current value of x and update its value,if x = 2 $$ x = x + 2
-if x equals to two print hello world,"if x = 2 $$ output ""hello world"""
-if x equals to two output hello world,"if x = 2 $$ output ""hello world"""
-if x equals to two add three to variable x and update variable x,if x = 2 $$ x = x + 3
-if x equals to two add three to the current value of x and update its value,if x = 2 $$ x = x + 3
-if x equals to three print hello world,"if x = 3 $$ output ""hello world"""
-if x equals to three output hello world,"if x = 3 $$ output ""hello world"""
-if x equals to three add three to variable x and update variable x,if x = 3 $$ x = x + 1
-if x equals to three add three to the current value of x and update its value,if x = 3 $$ x = x + 1
-if x equals to three print hello world,"if x = 3 $$ output ""hello world"""
-if x equals to three output hello world,"if x = 3 $$ output ""hello world"""
-if x equals to three add two to variable x and update variable x,if x = 3 $$ x = x + 2
-if x equals to three add two to the current value of x and update its value,if x = 3 $$ x = x + 2
-if x equals to three print hello world,"if x = 3 $$ output ""hello world"""
-if x equals to three output hello world,"if x = 3 $$ output ""hello world"""
-if x equals to three add three to variable x and update variable x,if x = 3 $$ x = x + 3
-if x equals to three add three to the current value of x and update its value,if x = 3 $$ x = x + 3
+if x equals to one print hello world,"if x = 1 $$ output ""hello world"" $$ end"
+if x equals to one output hello world,"if x = 1 $$ output ""hello world"" $$ end"
+if x equals to one add one to variable x and update variable x,if x = 1 $$ x = x + 1 $$ end
+if x equals to one add one to the current value of x and update its value,if x = 1 $$ x = x + 1 $$ end
+if x equals to one print hello world,"if x = 1 $$ output ""hello world"" $$ end"
+if x equals to one output hello world,"if x = 1 $$ output ""hello world"" $$ end"
+if x equals to one add two to variable x and update variable x,if x = 1 $$ x = x + 2 $$ end
+if x equals to one add two to the current value of x and update its value,if x = 1 $$ x = x + 2 $$ end
+if x equals to one print hello world,"if x = 1 $$ output ""hello world"" $$ end"
+if x equals to one output hello world,"if x = 1 $$ output ""hello world"" $$ end"
+if x equals to one add three to variable x and update variable x,if x = 1 $$ x = x + 3 $$ end
+if x equals to one add three to the current value of x and update its value,if x = 1 $$ x = x + 3 $$ end
+if x equals to two print hello world,"if x = 2 $$ output ""hello world"" $$ end"
+if x equals to two output hello world,"if x = 2 $$ output ""hello world"" $$ end"
+if x equals to two add two to variable x and update variable x,if x = 2 $$ x = x + 1 $$ end
+if x equals to two add two to the current value of x and update its value,if x = 2 $$ x = x + 1 $$ end
+if x equals to two print hello world,"if x = 2 $$ output ""hello world"" $$ end"
+if x equals to two output hello world,"if x = 2 $$ output ""hello world"" $$ end"
+if x equals to two add two to variable x and update variable x,if x = 2 $$ x = x + 2 $$ end
+if x equals to two add two to the current value of x and update its value,if x = 2 $$ x = x + 2 $$ end
+if x equals to two print hello world,"if x = 2 $$ output ""hello world"" $$ end"
+if x equals to two output hello world,"if x = 2 $$ output ""hello world"" $$ end"
+if x equals to two add three to variable x and update variable x,if x = 2 $$ x = x + 3 $$ end
+if x equals to two add three to the current value of x and update its value,if x = 2 $$ x = x + 3 $$ end
+if x equals to three print hello world,"if x = 3 $$ output ""hello world"" $$ end"
+if x equals to three output hello world,"if x = 3 $$ output ""hello world"" $$ end"
+if x equals to three add three to variable x and update variable x,if x = 3 $$ x = x + 1 $$ end
+if x equals to three add three to the current value of x and update its value,if x = 3 $$ x = x + 1 $$ end
+if x equals to three print hello world,"if x = 3 $$ output ""hello world"" $$ end"
+if x equals to three output hello world,"if x = 3 $$ output ""hello world"" $$ end"
+if x equals to three add two to variable x and update variable x,if x = 3 $$ x = x + 2 $$ end
+if x equals to three add two to the current value of x and update its value,if x = 3 $$ x = x + 2 $$ end
+if x equals to three print hello world,"if x = 3 $$ output ""hello world"" $$ end"
+if x equals to three output hello world,"if x = 3 $$ output ""hello world"" $$ end"
+if x equals to three add three to variable x and update variable x,if x = 3 $$ x = x + 3 $$ end
+if x equals to three add three to the current value of x and update its value,if x = 3 $$ x = x + 3 $$ end
