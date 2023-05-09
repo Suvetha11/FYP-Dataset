@@ -26,46 +26,46 @@ create new number,number a
 create new number,number b
 create new boolean,boolean a
 create new boolean,boolean b
-declare number student age,number student_age
-declare text student age,text student_age
-declare integer number count,integer number_count
-declare integer average total count,integer average_total_count
-declare boolean student age,boolean student_age
-declare boolean current student id,boolean new_student_id
-declare boolean student current address,boolean student_current_address
-declare integer student age ,integer student_age
-declare integer new student age ,integer new_student_age
-declare text last name ,text last_name
-declare string student first name ,text student_first_name
-declare number student age ,number student_age
-declare number new student age ,number new_student_age
-initiate integer x with value seven,integer x = 7
-initiate integer x with value eight,integer x = 8
-initiate integer x with value nine,integer x = 9
-initiate integer y with value fourteen,integer y = 14
-initiate integer y with value fifteen,integer y = 15
-initiate integer y with value sixteen,integer y = 16
-initiate string x with value hello,"text x = ""hello"""
-initiate string x with value word,"text x = ""word"""
-initiate string x with value dog,"text x = ""dog"""
-initiate string x with value animal,"text x = ""animal"""
-initiate string x with value house,"text x = ""house"""
-initiate string x with value hello world,"text x = ""hello world"""
-initiate string x with value hello world new,"text x = ""hello world new"""
-initiate string x with value animal home cat,"text x = ""animal home cat"""
-initiate string x with value very good luck ,"text x = ""very good luck"""
-initiate text x with value animal,"text x = ""animal"""
-initiate text x with value house,"text x = ""house"""
-initiate text x with value hello world,"text x = ""hello world"""
-initiate text x with value animal cat,"text x = ""animal cat"""
-initiate text x with value hello world new,"text x = ""hello world new"""
-initiate text x with value animal home cat,"text x = ""animal home cat"""
-initiate text x with value very good luck ,"text x = ""very good luck"""
-print name,"output ""name"""
-print dog,"output ""dog"""
-print x,"output ""x"""
-print hello world,"output ""hello world"""
-print string hello world,"output ""hello world"""
+declare variable with type string ,text a
+declare variable with type string ,text b
+declare variable with type text ,text a
+declare variable with type text ,text b
+declare variable with type integer ,integer a
+declare variable with type integer ,integer b
+declare variable with type number ,number a
+declare variable with type number ,number b
+declare variable with type boolean ,boolean a
+declare variable with type boolean ,boolean b
+declare a string variable named x,text x
+declare a string variable named y,text y
+declare a text variable named x,text x
+declare a text variable named y,text y
+declare an integer variable named x,integer x
+declare an integer variable named y,integer y
+declare a number variable named x,number x
+declare a number variable named y,number y
+declare a boolean variable named x,boolean x
+declare a boolean variable named y,boolean y
+declare a variable called x with type string,text x
+declare a variable called y with type string,text y
+declare a variable called x with type text,text x
+declare a variable called y with type text,text y
+declare a variable called x with type integer,integer x
+declare a variable called y with type integer,integer y
+declare a variable called x with type number,number x
+declare a variable called y with type number,number y
+declare a variable called x with type boolean,boolean x
+declare a variable called y with type boolean,boolean y
+declare string type variable x,text x
+declare string type variable y,text y
+declare text type variable x,text x
+declare text type variable y,text y
+declare integer type variable count,integer count
+declare integer type variable age,integer age
+declare number type variable x,number x
+declare number type variable y,number y
+declare boolean type variable x,boolean x
+declare boolean type variable y,boolean y
 print string good luck,"output ""good luck"""
 print string x y,"output ""x y"""
 print string all is well,"output ""all is well"""
