@@ -30,28 +30,28 @@ declare variable with type string ,text a
 declare variable with type string ,text b
 declare variable with type text ,text a
 declare variable with type text ,text b
-output variable hello world,output hello_world
-output variable good luck,output good_luck
-output variable x y,output x_y
-output variable text hello world,output hello_world
-output variable text good luck,output good_luck
-output variable text x y,output x_y
-output variable text all is well,output all_is_well
-output variable string x y,output x_y
-print variable string name,output name
-output variable name,output name
-print  text name,"output ""name"""
-print  string name,"output ""name"""
-print variable text dog,output dog
-print variable string dog,output dog
-output  dog,"output ""dog"""
-output  text dog,"output ""dog"""
-print variable string hello world,output hello_world
-output variable hello world,output hello_world
-output variable text hello world,output hello_world
-print variable first name,output first_name
-print variable text first name,output first_name
-print variable string first name,output first_name
+declare variable with type integer ,integer a
+declare variable with type integer ,integer b
+declare variable with type number ,number a
+declare variable with type number ,number b
+declare variable with type boolean ,boolean a
+declare variable with type boolean ,boolean b
+declare a string variable named x,text x
+declare a string variable named y,text y
+declare a text variable named x,text x
+declare a text variable named y,text y
+declare an integer variable named x,integer x
+declare an integer variable named y,integer y
+declare a number variable named x,number x
+declare a number variable named y,number y
+declare a boolean variable named x,boolean x
+declare a boolean variable named y,boolean y
+declare a variable called x with type string,text x
+declare a variable called y with type string,text y
+declare a variable called x with type text,text x
+declare a variable called y with type text,text y
+declare a variable called x with type integer,integer x
+declare a variable called y with type integer,integer y
 declare a variable called x with type number,number x
 declare a variable called y with type number,number y
 declare a variable called x with type boolean,boolean x
@@ -77,16 +77,16 @@ initiate number x with value nine,number x = 9.0
 initiate number x with value ten,number x = 10.0
 initiate number x with value eleven,number x = 11.0
 initiate number x with value twelve,number x = 12.0
-initiate number x with value thirteen,number x = 13.0
-initiate number x with value fourteen,number x = 14.0
-initiate number x with value fifteen,number x = 15.0
-initiate number x with value sixteen,number x = 16.0
-initiate number x with value seventeen,number x = 17.0
-initiate number x with value eighteen,number x = 18.0
-initiate number x with value nineteen,number x = 19.0
-initiate number x with value twenty,number x = 20.0
-initiate number y with value one,number y = 1.0
-initiate number y with value two,number y = 2.0
+print variable text student first name,output student_first_name
+print variable string student first name,output student_first_name
+output variable student first name,output student_first_name
+output text student first name,"output ""student first name"""
+output string student first name,"output ""student first name"""
+print variable total distance count,output total_distance_count
+print variable text total distance count,output total_distance_count
+print variable string total distance count,output total_distance_count
+print  string total distance count,"output ""total distance count"""
+output  total distance count,"output ""total distance count"""
 initiate number y with value three,number y = 3.0
 initiate number y with value four,number y = 4.0
 initiate number y with value five,number y = 5.0
