@@ -65,35 +65,35 @@ declare integer type variable age,integer age
 declare number type variable x,number x
 declare number type variable y,number y
 declare boolean type variable x,boolean x
-declare boolean type variable y,boolean y
-print string good luck,"output ""good luck"""
-print string x y,"output ""x y"""
-print string all is well,"output ""all is well"""
-output x,"output ""x"""
-output hello world,"output ""hello world"""
-output good luck,"output ""good luck"""
-output x y,"output ""x y"""
-output  all is well,"output ""all is well"""
-output text hello world,"output ""hello world"""
-output text good luck,"output ""good luck"""
-output text x y,"output ""x y"""
-output text all is well,"output ""all is well"""
-output text sky is blue,"output ""sky is blue"""
-print variable name,output name
-print variable dog,output dog
-print variable x,output x
-print variable all is well,output all_is_well
-print variable sky is blue,output sky_is blue
-print variable x y z,output x_y_z
-print variable text hello world,output hello_world
-print variable text good luck,output good_luck
-print variable text x y,output x_y
-print variable string name,output name
-print variable string dog,output dog
-print variable string x,output x
-print variable string all is well,output all_is_well
-print variable string sky is blue,output sky_is blue
-print variable string x y z,output x_y_z
+initiate number x with value one,number x = 1.0
+initiate number x with value two,number x = 2.0
+initiate number x with value three,number x = 3.0
+initiate number x with value four,number x = 4.0
+initiate number x with value five,number x = 5.0
+initiate number x with value six,number x = 6.0
+initiate number x with value seven,number x = 7.0
+initiate number x with value eight,number x = 8.0
+initiate number x with value nine,number x = 9.0
+initiate number x with value ten,number x = 10.0
+initiate number x with value eleven,number x = 11.0
+initiate number x with value twelve,number x = 12.0
+initiate number x with value thirteen,number x = 13.0
+initiate number x with value fourteen,number x = 14.0
+initiate number x with value fifteen,number x = 15.0
+initiate number x with value sixteen,number x = 16.0
+initiate number x with value seventeen,number x = 17.0
+initiate number x with value eighteen,number x = 18.0
+initiate number x with value nineteen,number x = 19.0
+initiate number x with value twenty,number x = 20.0
+initiate number y with value one,number y = 1.0
+initiate number y with value two,number y = 2.0
+initiate number y with value three,number y = 3.0
+initiate number y with value four,number y = 4.0
+initiate number y with value five,number y = 5.0
+initiate number y with value six,number y = 6.0
+initiate number y with value seven,number y = 7.0
+initiate number y with value eight,number y = 8.0
+initiate number y with value nine,number y = 9.0
 output variable hello world,output hello_world
 output variable good luck,output good_luck
 output variable x y,output x_y
